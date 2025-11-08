@@ -1,4 +1,3 @@
-````markdown
 # 🩺 Medical Imaging Analysis System
 
 This project is a **deep learning–based application** for analyzing **chest X-ray images**.  
@@ -26,7 +25,7 @@ It uses a **Flask backend** (`app.py`) and a **Jupyter notebook** (`main_noteboo
 1. Install dependencies:
    ```bash
    pip install Flask tensorflow opencv-python numpy scikit-learn
-````
+
 
 2. Run the Flask app:
 

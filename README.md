@@ -48,6 +48,3 @@ It uses a **Flask backend** (`app.py`) and a **Jupyter notebook** (`main_noteboo
 * Flask
 * NumPy, scikit-learn
 
-
-Would you like me to add a one-line project tagline (like “AI-powered chest X-ray analysis web app”) under the title? It makes the repo look more polished on GitHub.
-```
